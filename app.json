@@ -40,6 +40,7 @@
     "ADMIN_GROUP_JID": {
       "required": false
     }
+  },
   "buildpacks": [
     {
       "url": "heroku/nodejs"
